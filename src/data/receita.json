@@ -1,0 +1,37 @@
+{
+  "titulo": "Peixe com molho de camarão",
+  "porcoes": 4,
+  "tags": ["peixe", "camarao"],
+  "alergenicos": ["camarao"],
+  "dificuldade": "media",
+  "categoria": "prato principal",
+  "fotos": [],
+  "ingredientes": [
+    {"nome": "filé de tilapia", "quantidade": 4, "unidade": "unidades"},
+    {"nome": "camarão", "quantidade": 200, "unidade": "gramas"},
+    {"nome": "cebola", "quantidade": 1, "unidade": "unidade", "tamanho": "grande"},
+    {"nome": "pimentão verde", "quantidade": 0.5, "unidade": "unidade"},
+    {"nome": "tomate", "quantidade": 6, "unidade": "unidades"},
+    {"nome": "alcaparras", "quantidade": 1, "unidade": "colher de sopa"},
+    {"nome": "coentro", "quantidade": 50, "unidade": "gramas"},
+    {"nome": "sal", "quantidade": 1, "unidade": "colher de chá"},
+    {"nome": "pimenta do reino", "quantidade": 1, "unidade": "colher de café"},
+    {"nome": "limão siciliano", "quantidade": 0.5, "unidade": "unidade"},
+    {"nome": "alho", "quantidade": 4, "unidade": "dentes"},
+    {"nome": "azeite", "quantidade": 2, "unidade": "colher de sopa"}
+  ],
+  "modo_de_fazer": [
+    "Pique a cebola, o alho e o pimentão em cubos pequenos",
+    "e os tomates em pedaços médios.",
+    "Refogue a cebola em 1 colher de azeite",
+    "quando dourar, adicione o alho",
+    "quando dourar, adicione os pimentões",
+    "tempere os camarões com limão, sal e pimenta do reino e deixe por 7 minutos",
+    "grelhe os camarões na mesma panela e reserve",
+    "adicione os tomates, as alcaparras, sal e pimenta do reino",
+    "deixe que os tomates fiquem bem macios (20 minutos)",
+    "tempere os filës de tilápia com limão, sal e pimenta do reino",
+    "em uma frigideira de fundo anti-aderente, coloque o restante do azeite e grelhe o peixe até que fique dourado (6 minutos de cada lado",
+    "sirva o peixe com o molho de camarão por cima"
+  ]
+}
